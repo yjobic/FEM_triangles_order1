@@ -2,8 +2,9 @@
 
 Educational python code that have to be filled. It uses the finit element method to solve the heat equation or the helmholtz one.
 
-# Initial commit
+# At first
 
+Before completing the files, you may want to clone the repository with the following command:
 ```
 git clone [URL]
 ```
